@@ -1,6 +1,6 @@
-## Hi, I'm Debanjan 👋
+## Hi, I'm Debanjan 
 
-I am an aspiring Data Analyst with a strong interest in operational analytics and business problem-solving.
+I am an entry-level Data Analyst with a strong interest in operational analytics and business problem-solving.
 
 ### What I work with
 - SQL (data analysis & aggregation)
